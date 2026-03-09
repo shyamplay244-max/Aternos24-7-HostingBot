@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "AstraSmpxyz.aternos.me:63863",
+    "port": 63863,
     "version": "1.21.1"
   },
   "position": {
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.gg/H5SqdMh47",
     "events": {
       "connect": true,
       "disconnect": true,
